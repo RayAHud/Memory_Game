@@ -3,7 +3,7 @@ About Me
     This program was created by Ray Hudson as his final project for Udacity's intro to programming nanodegree.
 
 The game is hosted on freehostia. Follow 
-[http://www.rayhud.freehostia.com/project/index.html](This Link)
+[This Link](http://www.rayhud.freehostia.com/project/index.html)
 and play from there now!!!
 
 Install
