@@ -2,6 +2,9 @@ Matching Game README
 About Me
     This program was created by Ray Hudson as his final project for Udacity's intro to programming nanodegree.
 
+The game is hosted on freehostia. Follow <a href="(http://www.rayhud.freehostia.com/project/index.html" target="_blank">This Link</a>
+and play from there now!!!
+
 Install
 
     This game's main file is index.html.
@@ -11,10 +14,6 @@ Install
             This program uses a javascript code named app.js found in the js folder
             The program also uses a css file named app.css located in the css folder
             as long as you leave everything where it is when unzipped, the program should work.
-
-    The file has also been hosted to a website so alternatively you can go to
-    [Memory Card Game](http://www.rayhud.freehostia.com/project/index.html)  
-    and play from there.
 
 How to play
 
