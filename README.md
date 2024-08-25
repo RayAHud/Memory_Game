@@ -2,7 +2,8 @@ Matching Game README
 About Me
     This program was created by Ray Hudson as his final project for Udacity's intro to programming nanodegree.
 
-The game is hosted on freehostia. Follow <a href="(http://www.rayhud.freehostia.com/project/index.html" target="_blank">This Link</a>
+The game is hosted on freehostia. Follow 
+<a href="(http://www.rayhud.freehostia.com/project/index.html" target="_blank">This Link</a>
 and play from there now!!!
 
 Install
