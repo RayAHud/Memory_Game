@@ -13,7 +13,7 @@ Install
             as long as you leave everything where it is when unzipped, the program should work.
 
     The file has also been hosted to a website so alternatively you can go to
-    http://www.rayhud.freehostia.com/project/index.html  
+    [http://www.rayhud.freehostia.com/project/index.html](http://www.rayhud.freehostia.com/project/index.html)  
     and play from there.
 
 How to play
